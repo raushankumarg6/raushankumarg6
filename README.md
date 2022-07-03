@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Raushan Kumar Gupta</h1>
 <h3 align="center">Learning full stack development</h3>
-<img align ="centre"  margin =600 alt = "Coding" width=400 src = "https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" >
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushankumarg6&label=Profile%20views&color=0e75b6&style=flat" alt="raushankumarg6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushankumarg6" alt="raushankumarg6" /></a> </p>
