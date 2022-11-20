@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA,MERN**
 
-- 📫 How to reach me **visit2raushan@gmail.com**
+- 📫 How to reach me **raushankumargupta3737@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1565F6ob8pdALne09BypK1F1j6luyYX1u/view?usp=sharing](https://drive.google.com/file/d/1565F6ob8pdALne09BypK1F1j6luyYX1u/view?usp=sharing)
 
