@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-   <a href="https://react.dev/"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png"  height="40" width="40" alt="loading"/> </a>
+   <a href="https://react.dev/"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png"  height="40" width="50" alt="loading"/> </a>
    <a href="https://www.typescriptlang.org/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3629713-3030764.png"  height="40" width="40" alt="loading" /></a>
   <a href="https://www.sonarsource.com/products/sonarcloud/"> <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png"  height="40" width="40" alt="loading" /> </a>
   <a href="https://storybook.js.org/"><img src="https://avatars.githubusercontent.com/u/22632046?s=280&v=4"  height="40" width="40" alt="loading" /> </a>
